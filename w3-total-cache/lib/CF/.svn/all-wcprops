@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/CF
+END
+cloudfiles.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/CF/cloudfiles.php
+END
+cloudfiles_exceptions.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/CF/cloudfiles_exceptions.php
+END
+cacert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/CF/cacert.pem
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/CF/index.html
+END
+cloudfiles_http.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/CF/cloudfiles_http.php
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Microsoft/WindowsAzure/RetryPolicy
+END
+RetryPolicyAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Microsoft/WindowsAzure/RetryPolicy/RetryPolicyAbstract.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Microsoft/WindowsAzure/RetryPolicy/Exception.php
+END
+NoRetry.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Microsoft/WindowsAzure/RetryPolicy/NoRetry.php
+END
+RetryN.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Microsoft/WindowsAzure/RetryPolicy/RetryN.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Microsoft/WindowsAzure/RetryPolicy/index.html
+END

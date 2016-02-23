@@ -1,0 +1,339 @@
+@padding: 20px;
+
+.dev-outline { 
+    padding: 5px; 
+    border: solid 1px #CCC; 
+    margin: 5px;
+}
+
+/* @group Yahoo! CSS Reset (YUI 3) */
+html {
+	color:#000;
+	background:#FFF;
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td {
+	margin:0;
+	padding:0;
+}
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+fieldset, img {
+	border:0;
+}
+address, caption, cite, code, dfn, em, strong, th, var {
+	font-style:normal;
+	font-weight:normal;
+}
+li {
+	list-style:none;
+}
+caption, th {
+	text-align:left;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-size:100%;
+	font-weight:normal;
+}
+q:before, q:after {
+	content:'';
+}
+abbr, acronym {
+	border:0;
+	font-variant:normal;
+}
+sup {
+	vertical-align:text-top;
+}
+sub {
+	vertical-align:text-bottom;
+}
+input, textarea, select {
+	font-family:inherit;
+	font-size:inherit;
+	font-weight:inherit;
+}
+input, textarea, select {
+	*font-size:100%;
+}
+legend {
+	color:#000;
+}
+/* @end */
+
+/* @group Clearfix */
+.clearfix:before,
+.clearfix:after {
+    content: ".";    
+    display: block;    
+    height: 0;    
+    overflow: hidden;	
+}
+.clearfix:after {
+    clear: both;
+}
+.clearfix {
+    zoom: 1; /* IE < 8 */
+} 
+/* @end */
+
+/* @group */
+label {
+    display: block;
+}
+/* @end */
+
+/* @group Page Layout */
+body {
+    font-family: sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+    text-transform: normal;
+    letter-spacing: normal;
+    line-height: 1.4em;
+}
+
+#wrapper {
+    width: 960px;
+    margin: 0 auto;
+}
+
+#header {
+    .dev-outline
+}
+
+#content-container {
+    float: left;
+    width: 660px;
+    
+    #content {
+        .dev-outline;
+        
+        .post { .dev-outline }
+    }
+}
+
+#sidebar-container {
+    float: right;
+    width: 300px;
+    
+    #sidebar {
+        .dev-outline;
+    }
+}
+
+#footer-container {
+    clear: both;
+    
+    #footer {
+        .dev-outline;
+    }
+}
+/* @end */
+
+/* @group Common Buddypress Styles */
+body.buddypress {
+    #item-header {
+        .dev-outline;
+        @avatar-width: 120px;
+        
+        #item-actions {
+            float: right;
+        }
+        
+        #item-header-avatar { 
+            float: left; 
+            line-height: 0;
+            
+            img { width: @avatar-width; height: auto; }
+        }
+        
+        #item-header-content {
+            margin-left: @avatar-width+5;
+        }
+    }
+    
+    #item-nav {
+        .dev-outline;
+    }
+    
+    #item-body {
+        .dev-outline;
+        
+        #subnav {
+            .dev-outline;
+        }
+    }
+    
+    #whats-new-form {
+        .dev-outline;
+        
+        #whats-new-avatar { 
+            float: left; 
+            line-height: 0;
+        }
+        
+        h5,
+        #whats-new-content {
+            margin-left: 60px;
+        }
+    }
+    
+    .item-list-tabs {
+        .dev-outline;
+        li { 
+            display: inline; 
+            
+            &.filter {
+                float: right;
+            }
+        }
+    } //.item-list-tabs
+    
+    .item-list {
+        li {
+            .dev-outline;
+            
+            position: relative;
+            overflow: hidden;
+            
+            .item-avatar {
+                float: left;
+                line-height: 0;
+                img { width: 50px; height: 50px; }
+                a { line-height: 0; }
+            } // .item-avatar
+            
+            .item, .content {
+                margin-left: 55px;
+            }
+            
+            .activity-comments {
+                .ac-reply-avatar {
+                    float: left;
+                    img { width: 30px; height: 30px; }
+                }
+            } // .activity-comments
+        }
+        
+    } // .item-list
+    
+    .activity-list {
+        // comments
+        .activity-comments > ul {
+            overflow: hidden;
+            
+            // general comment styles
+            li {
+                .dev-outline;
+                
+                .acomment-avatar {
+                    float: left;
+                }
+                .acomment-meta,
+                .acomment-content {
+                    margin-left: 30px;
+                }
+                .acomment-meta {
+                    margin-bottom: 5px;
+                }
+                .acomment-content {
+                    line-height: 1.4em;
+                }
+                
+                // sub-comment form
+                .ac-form {
+                    .dev-outline;
+                }
+            } // li
+            
+            // first level comments
+            > li {
+                margin: 10px;
+                padding-left: 0;
+                
+                // sub level comments
+                li:first-child {
+                    
+                }
+                
+                li:last-child {
+                    
+                }
+            }
+            
+            // first level last comment
+            > li:last-child {
+                
+            }
+            
+        } //.activity-comments > ul
+        
+        // comment form
+        .activity-comments .ac-form {
+            display: none; // hide reply form by default
+            .dev-outline;
+            
+            .ac-reply-avatar {
+                float: left;
+                img { width: 30px; height: 30px; }
+            }
+            
+            .ac-reply-content {
+                margin-left: 40px;
+                
+                .ac-textarea {
+                    width: 100%;
+                    
+                    textarea {
+                        width: 100%;
+                    }
+                }
+            }
+        
+        } // .activity-comments .ac-form
+        
+    } // .activity-list
+    
+} // body.buddypress
+
+body.forums.directory {
+    #forums-search-form {
+        h3 {
+            float: left;
+        }
+        
+        #new-topic-post {
+            .dev-outline;
+            clear: both;
+        }
+        
+        #forums-directory-form {
+            clear: both;
+        }
+    }
+    
+    #content-container {
+        width: 100%;
+    }
+    
+    table.forum {
+        width: 100%;
+    }
+    
+    #sidebar-container {
+        display: none;
+    }
+}
+
+body.group-forum-topic {
+    #post-topic-reply {
+        .dev-outline;
+    }
+}
+
+/* @end */
+
+// @import "buddypress.less";

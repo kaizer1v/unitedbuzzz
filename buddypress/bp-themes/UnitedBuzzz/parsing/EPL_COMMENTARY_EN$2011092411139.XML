@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+  <sports-commentaries>
+    <date year="2011" month="9" date="24" day="6"/>
+    <time hour="14" minute="25" second="53" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+    <version number="3"/>
+    <league global-id="39" name="English Premier League" alias="EPL" display-name=""/>
+    <season year="2011" id="1" description="2011 EPL Season"/>
+    <language id="1" code="EN"/>
+    <soccer-ifb-commentaries>
+      <ifb-commentary>
+         <date year="2011" month="9" date="24" day="6"/>
+         <time hour="12" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+         <local-game-date year="2011" month="9" date="24" day="6"/>
+         <local-time hour="17" minute="30"/>
+         <gamecode global-code="1061254" code="2011092411139"/>
+         <coverage level="6"/>
+         <aggregate-partner-game global-code=""/>
+         <game-type id="1" description="Regular Season"/>
+         <week week="6"/>
+         <gamestate status-id="4" status="Final" period="2" minutes="90" seconds="25" additional-minutes="5"/>
+         <stadium global-id="6128" id="555" name="Britannia Stadium"/>
+         <match-number number=""/>
+         <visiting-team>
+            <team-info global-id="6157" id="34" location="Manchester United" name="" alias="Man" display-name="Manchester United"/>
+            <team primary-color="0000A0" shorts-color="000000"/>
+           <record wins="5" ties="1" losses="0"/>
+            <linescore score="1" shots="11">
+               <half half="1" score="1" shots="5"/>
+               <half half="2" score="0" shots="6"/>
+            </linescore>
+            <formation formation="4-4-2"/>
+         </visiting-team>
+         <home-team>
+            <team-info global-id="8246" id="1139" location="Stoke City" name="" alias="STO" display-name="Stoke City"/>
+            <team primary-color="FF0000" shorts-color="FFFFFF"/>
+           <record wins="2" ties="3" losses="1"/>
+            <linescore score="1" shots="12">
+               <half half="1" score="0" shots="6"/>
+               <half half="2" score="1" shots="6"/>
+            </linescore>
+            <formation formation="4-4-2"/>
+         </home-team>
+         <comments>
+           <comment half="0" time="0" number="1" headline="MAN IN THE MIDDLE" text="Taking charge of today's game is Peter Walton, who has been a member of the Premier League's elite group of referees since 2003. The Northamptonshire-based official sent off seven players in the top flight last season, though none from either of these two clubs. He did, however, dismiss two United players within the first half-hour of matches the campaign before last, Nani at Aston Villa in the league (even Sir Alex said he deserved it) and Fabio in the League Cup third round win over Wolves. Walton's assistants today are Mike Mullarkey and Ceri Richards with Chris Foy fulfilling fourth official duties."/>
+           <comment half="0" time="0" number="2" headline="EARLY TEAM NEWS" text="Kenwyne Jones misses out for Stoke having damaged his hamstring in the midweek Carling Cup victory over Tottenham. Salif Diao, Cameron Jerome and Jermaine Pennant are all carrying slight knocks and will have late fitness tests. Rio Ferdinand is set to return for United after a calf injury and could replace Chris Smalling, who is doubtful with a groin problem. Javier Hernandez has recovered from the shin injury he sustained courtesy of that reckless tackle by Ashley Cole in last weekend's win over Chelsea, while Danny Welbeck returned from a hamstring problem in the midweek Carling Cup success at Leeds."/>
+           <comment half="0" time="0" number="3" headline="PLAYER TO WATCH" text="Look no further than Wayne Rooney, who has scored nine goals in the opening five Premier League games, plus a couple for England in Bulgaria. The United frontman will benefit from a midweek off and will be looking to make his mark against Stoke. He didn't play in either game against them last season and failed to score in either game the season before that. In fact has never netted against the Potters and no doubt Sir Alex Ferguson will be reminding him of that fact just before kick-off. Javier Hernandez, by contrast, scored three times against Stoke last season."/>
+           <comment half="0" time="0" number="4" headline="HEAD-TO-HEAD RECORD" text="United have won 32 of the 76 league meetings between the sides, with Stoke having won 20 and the 24 matches being drawn. United did the double in this fixture last season, but did not have it their own way in either match. They won 2-1 at the Britannia Stadium on October 24, Javier Hernandez putting them in front on 27 minutes and grabbing the winner four minutes from time, just five minutes after Tuncay thought he had snatched a point for the home side with a glorious equaliser. It also finished 2-1 to United at Old Trafford on January 4, with Hernandez (27 mins) again opening the scoring. Dean Whitehead (50) levelled for Stoke, but Nani (62) won it for Sir Alex Ferguson's side. Stoke's last victory over United in the league was at the Victoria Ground in the old Division One way back on Boxing Day 1984."/>
+           <comment half="0" time="0" number="5" headline="PREVIEW" text="Stoke have the unenviable task of being next up to try and derail the Manchester United rollercoaster when these two sides clash in Saturday's late game in the Premier League. The top teams always have their hands full when going to the Britannia Stadium, just ask Liverpool who came a cropper a fortnight ago. But if there is one team who has proved adept at handling the Potters in recent years it is United, and a 2-1 victory in this corresponding match last season got their campaign up and running, having drawn their previous four away from home. Stoke have already kept seven clean sheets this season, United need two goals to top Newcastle's Premier League record for the most goals in the opening six matches of the season (22 goals in 1994-95) so something has got to give. Today's game kicks off at 1730BST, so join us around 30 minutes beforehand when we should have the confirmed team news, which will be followed by a match commentary."/>
+           <comment half="0" time="0" number="6" headline="THE TEAMS" text="Stoke: Begovic, Wilkinson, Shawcross, Woodgate, Wilson, Pennant, Delap, Whelan, Etherington, Walters, Crouch. Substitutes: Sorensen, Huth, Whitehead, Upson, Shotton, Jerome, Palacios. 
+Man Utd: De Gea, Jones, Ferdinand, Evans, Evra, Nani, Anderson, Fletcher, Young, Berbatov, Hernandez. Substitutes: Lindegaard, Owen, Giggs, Park, Welbeck, Fabio Da Silva, Valencia. 
+Referee: Peter Walton (Northamptonshire)."/>
+           <comment half="0" time="0" number="7" headline="ROONEY OUT INJURED" text="There is no Wayne Rooney in the United line-up, he is out with a hamstring injury with his place going to Dimitar Barbatov. Rio Ferdinand returns in central defence, taking the place of Chris Smalling. For Stoke, Jermaine Pennant is back on the right-side of midfield with Jon Walters pushing up into attack the fill the hole left by the absence of the injured Kenwyne Jones."/>
+           <comment half="0" time="0" number="8" headline="TEAM NEWS UPDATE" text="Jonny Evans injured his foot in the warm-up, so Antonio Valencia will play at right-back."/>
+           <comment half="1" time="1" number="9" headline="HERE WE GO" text="United kick off, attacking the goal to our right."/>
+           <comment half="1" time="2" number="10" headline="SWITCH FOR UNITED" text="Just to repeat, Evans was injured in the warm-up, so Phil Jones has moved to centre-back and Antonio Valencia has come in to play on the right side of defence."/>
+           <comment half="1" time="3" number="11" headline="UNDER PRESSURE" text="Stoke win an early throw-in, which Delap hurls into the box. David De Gea spills, but the league leaders clear their lines."/>
+           <comment half="1" time="5" number="12" headline="PENALTY CLAIMS" text="A richochet sees the ball find its way to Hernandez, who is clean through. Woodgate makes a desperate lunge which sees him just make contact with the ball before the man, so referee Peter Walton is right to dismiss claims for a penalty."/>
+           <comment half="1" time="6" number="13" headline="HERNANDEZ HURTING" text="The Mexico striker went down under the challenge and collided with Asmir Begovic. He receives treatment after having suffered what appears to be a hip injury."/>
+           <comment half="1" time="7" number="14" headline="BOOKING" text="Glenn Whelan is booked for a bad tackle on Evra which has Sir Alex off his bench in anger. Hernandez, meanwhile, has rejoined the fray."/>
+           <comment half="1" time="9" number="15" headline="JONES GOES CLOSE" text="Phil Jones meets a left-wing free-kick from Anderson with a glancing header that is just wide."/>
+           <comment half="1" time="9" number="16" headline="NOT GOOD FOR UNITED" text="Javier Hernandez has limped off again and will be unable to continue."/>
+           <comment half="1" time="11" number="17" headline="PENNANT NOT FAR AWAY" text="United again have difficulty clearing a Delap long throw and Pennant sees his goalbound follow-up strike a United defender."/>
+           <comment half="1" time="11" number="18" headline="UNITED SUBSTITUTION" text="Javier Hernandez is replaced by Michael Owen, who got two goals against Leeds in midweek."/>
+           <comment half="1" time="15" number="19" headline="CROUCH HEADS WIDE" text="Another Delap special is hurled towards the near-post, but Crouch sees his header deflected past the post. From the corner Crouch has a free header but nods wide and in any case was adjudged, rightly, to have fouled Phil Jones."/>
+           <comment half="1" time="18" number="20" headline="STEADYING INFLUENCE" text="Jonathan Walters frees Marc Wilson down the Stoke left, but the full-back's cross is expertly dealt with by Rio Ferdinand."/>
+           <comment half="1" time="19" number="21" headline="BERBATOV OFF TARGET" text="Dimitar Berbatov climbs highest to meet Anderson's corner, but the Bulgaria striker heads disappointingly wide."/>
+           <comment half="1" time="22" number="22" headline="ANOTHER CASUALTY" text="Jermaine Pennant is down with what appears to be a twisted left knee which he sustained after slipping under no challenge at all."/>
+           <comment half="1" time="26" number="23" headline="OFF THE PACE" text="Jonathan Walters makes a promising burst forward for Stoke, but when he finds Peter Crouch the move breaks down. The former Spurs forward has been off the pace so far today, which is not to say he won't get on the end of a Delap long throw later."/>
+           <comment half="1" time="27" number="24" headline="GOAL UNITED" text="Nani gives United the lead."/>
+           <comment half="1" time="28" number="25" headline="MORE ON THAT GOAL" text="It's a goal out of nothing from the Portugal star. He exchanged passes with Fletcher high up the pitch and waltzed past the Stoke defence before netting with a low shot into the corner."/>
+           <comment half="1" time="29" number="26" headline="ALMOST A LEVELLER" text="Back come Stoke. Pennant crosses, United half clear and Andy Wilkinson's rasping shot is brilliantly saved by David De Gea, who palms it on to the crossbar."/>
+           <comment half="1" time="33" number="28" headline="BAD MISS FROM NANI" text="A back-pass from Ryan Shawcross is miscontrolled by Begovic, who under pressure from Darren Fletcher plays the ball out to Nani. Twenry yards out and the goal gaping, it should be 2-0, but Nani is high and wide with his effort."/>
+           <comment half="1" time="35" number="29" headline="DELAP OFF TARGET" text="Wilkinson fearlessly wins the ball in the centre circle and feeds Delap, whose long-range effort goes wide."/>
+           <comment half="1" time="36" number="30" headline="BRILLIANT SAVE" text="Jonathan Walters shoots for goal from inside the box. It goes between the legs of Patrice Evra and forces David De Gea into his second world-class save of the half."/>
+           <comment half="1" time="40" number="31" headline="FERDINAND FUMING" text="United's England central defender is incensed by the lack of movement from his strikers when looking for an option from the back."/>
+           <comment half="1" time="42" number="32" headline="POOR FIRST TOUCH FROM OWEN" text="Nani plays a promising ball inside to Owen, whose first touch drives him too wide and Shawcross is across to clear."/>
+           <comment half="1" time="44" number="33" headline="STOKE STILL PRESSING" text="Jon Walters drops a fantastic ball in from the left to beyond the far post but neither Crouch nor Pennant can apply the decisive touch."/>
+           <comment half="1" time="45" number="34" headline="ADDED TIME" text="There will be four minutes of added time after that injury to Javier Hernandez."/>
+           <comment half="1" time="45" number="35" headline="JONES ATTACKS WITH PURPOSE" text="Phil Jones bustles forward from the back again and his left-foot shot hits Shawcross and goes out for a corner."/>
+           <comment half="1" time="45" number="37" headline="HT: STOKE 0 MAN UTD 1" text="Manchester United lead at the interval thanks to that superb strike from Nani. The Portugal midfielder crafted the goal himself, playing a give-and-go with Darren Fletcher before beating the Stoke defence single-handedly and shooting low into the corner. Stoke almost levelled immediately, but David De Gea made a brilliant save to deny Andy Wilkinson, who saw his shot parried on to the bar. The Spaniard made an equally stupendous stop to keep out an effort from Jon Walters nine minutes before the break. It's been an evenly-contested half, with one piece of class the difference. United are on course for a sixth straight league win, but Stoke are far from out of it yet."/>
+           <comment half="2" time="46" number="38" headline="HERE WE GO AGAIN" text="Stoke get the second half under way."/>
+           <comment half="2" time="49" number="39" headline="SIMPLY NOT GOOD ENOUGH" text="Matthew Etheringrton is often among the assist leaders in the Premier League, but his crossing so far today has been woeful. Another case in point, as a lofted pass in for Crouch provides catching practice for the United goalkeeper."/>
+           <comment half="2" time="51" number="40" headline="YOUNG CROSS" text="A patient build-up from United finally ends with Ashley Young putting in a low ball from the left that Owen is unable to get on the end of."/>
+           <comment half="2" time="52" number="41" headline="GOAL - STOKE 1 UNITED 0" text="Peter Crouch heads Stoke level."/>
+           <comment half="2" time="53" number="42" headline="MORE ON THAT GOAL" text="It's a text-book Stoke goal: Etherington left-wing corner, towering header from the giraffe, who has become the sixth player to score for six different Premier League clubs."/>
+           <comment half="2" time="54" number="43" headline="BACK COME UNITED" text="The visitors look to restore their lead, but Dimitar Berbatov shoots straight at Asmir Begovic."/>
+           <comment half="2" time="56" number="45" headline="HORROR MISS FROM CROUCH" text="Rio Ferdinand misses a cross from the right and presents Crouch with a gilt-edged chance. The scorer is unable to beat the goalkeeper from close range, his shot striking David De Gea and bouncing off the Spaniard's back for a corner."/>
+           <comment half="2" time="60" number="46" headline="TIME FOR A CHANGE" text="Danny Welbeck is warming up on the sidelines for United. Neither Michael Owen nor Dimitar Berbatov could have any complaints if Sir Alex removed them."/>
+           <comment half="2" time="62" number="47" headline="TAME SHOT BY ANDERSON" text="Anderson makes a promising run across the front of the Stoke back-four, but his angled shot lacks the venom to truly test Asmir Begovic."/>
+           <comment half="2" time="66" number="48" headline="PENALTY CLAIMS" text="There are half-hearted claims for a Stoke penalty after Pennant takes a tumble in the box, but referee Peter Walton is having none of it."/>
+           <comment half="2" time="67" number="49" headline="CURLING FREE-KICK" text="Valencia catches Walters in the face with a high boot and Stoke have a free-kick in a very dangerous position on the edge of the area. Wilson curls it over the wall and de Gea fists away with some difficulty."/>
+           <comment half="2" time="70" number="50" headline="HANDBALL CLAIMS" text="United mount an attacking threat and Young sees his shot blocked by Begovic. Evra's follow-up hits a Stoke arm - that should be a penalty but the linesman has his flag up for offside."/>
+           <comment half="2" time="71" number="51" headline="UNITED SUBSTITUTIONS" text="Ryan Giggs comes on for Ashley Young and Danny Welbeck replaces Dimitar Berbatov."/>
+           <comment half="2" time="72" number="52" headline="IN NEED OF TREATMENT" text="A collision between Patrice Evra and Jonathan Walters leaves the United man requiring the physio."/>
+           <comment half="2" time="76" number="54" headline="UNITED FIND A SECOND WIND" text="Nani is still causing Stoke some consternation and the Portuguese cuts in from the right before firing in a shot that is deflected wide for a corner. A desperate tackle from Ryan Shawcross then denies Owen."/>
+           <comment half="2" time="80" number="55" headline="WELBECK LOOKING LIVELY" text="United are certainly causing the Stoke defence one or two more problems with the introduction of the lively Welbeck."/>
+           <comment half="2" time="83" number="56" headline="STOKE SUBSTITUTION" text="Robert Huth replaces Andy Wilkinson, who has had a terrific game for Stoke."/>
+           <comment half="2" time="84" number="58" headline="CHANCE GOES BEGGING" text="Another Stoke set-piece, another chance as Crouch heads wide from an Etherington corner."/>
+           <comment half="2" time="86" number="59" headline="STOKE SUBSTITUTION" text="Dean Whitehead replaces Rory Delap for the home side."/>
+           <comment half="2" time="87" number="60" headline="CROUCH SHOOTS WIDE" text="Crouch holds off Valencia at the far post to take down an Etherington cross on his chest but is off balance as he pulls the trigger and fires wide."/>
+           <comment half="2" time="90" number="61" headline="STILL TIME FOR A WINNER" text="There will be four minutes of added time."/>
+           <comment half="2" time="90" number="62" headline="BAD MISS FROM GIGGS" text="United have a chance to win it in injury time. Nani exchanges passes with Valencia and crosses to the far post. The unmarked former Wales winger looks odds-on to score, but shins the ball wide."/>
+           <comment half="2" time="90" number="63" headline="SUBSTITUTION" text="Cameron Jerome replaces Jermaine Pennant for Stoke."/>
+           <comment half="2" time="90" number="64" headline="FLAG DENIES UNITED" text="A lovely flick from Anderson puts Owen in the clear, but the flag is up for offside."/>
+           <comment half="2" time="90" number="65" headline="FT: STOKE 1 MAN UTD 1" text="Stoke dent Manchester United's 100 per cent record after coming from behind to snatch a draw in a pulsating encounter at the Britannia Stadium. United led at the break courtesy of a superb individual goal from Nani and were equally grateful to two world-class saves from David de Gea. But in the end Sir Alex Ferguson's side will likely be satisfied, somewhat grudgingly, with a point after surrendering their lead to Peter Crouch's 53rd-minute header from Matthew Etherington's free-kick. United, remember, had to do without the services of nine-goal Wayne Rooney (hamstring injury in training) and then lost Javier Hernandez, also to injury, in the early going. A draw was still enough to take them back to the top of the table, while Stoke are now able to say they have finally taken points off the Red Devils in the Premier League era having lost all six previous meetings between the sides."/>
+         </comments>
+        </ifb-commentary>
+      </soccer-ifb-commentaries>
+    </sports-commentaries>
+</sports-statistics>

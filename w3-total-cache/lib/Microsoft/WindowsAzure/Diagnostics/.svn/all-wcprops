@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Microsoft/WindowsAzure/Diagnostics
+END
+LogLevel.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Microsoft/WindowsAzure/Diagnostics/LogLevel.php
+END
+Manager.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Microsoft/WindowsAzure/Diagnostics/Manager.php
+END
+ConfigurationInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Microsoft/WindowsAzure/Diagnostics/ConfigurationInstance.php
+END
+ConfigurationLogs.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Microsoft/WindowsAzure/Diagnostics/ConfigurationLogs.php
+END
+ConfigurationPerformanceCounters.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Microsoft/WindowsAzure/Diagnostics/ConfigurationPerformanceCounters.php
+END
+ConfigurationObjectBaseAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Microsoft/WindowsAzure/Diagnostics/ConfigurationObjectBaseAbstract.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Microsoft/WindowsAzure/Diagnostics/Exception.php
+END
+DirectoryConfigurationSubscription.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Microsoft/WindowsAzure/Diagnostics/DirectoryConfigurationSubscription.php
+END
+ConfigurationDiagnosticInfrastructureLogs.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Microsoft/WindowsAzure/Diagnostics/ConfigurationDiagnosticInfrastructureLogs.php
+END
+ConfigurationDirectories.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Microsoft/WindowsAzure/Diagnostics/ConfigurationDirectories.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Microsoft/WindowsAzure/Diagnostics/index.html
+END
+ConfigurationDataSources.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Microsoft/WindowsAzure/Diagnostics/ConfigurationDataSources.php
+END
+ConfigurationWindowsEventLog.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Microsoft/WindowsAzure/Diagnostics/ConfigurationWindowsEventLog.php
+END
+PerformanceCounterSubscription.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Microsoft/WindowsAzure/Diagnostics/PerformanceCounterSubscription.php
+END

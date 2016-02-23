@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Minify/Minify
+END
+HTMLTidy.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Minify/Minify/HTMLTidy.php
+END
+Build.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Minify/Minify/Build.php
+END
+CommentPreserver.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Minify/Minify/CommentPreserver.php
+END
+Source.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Minify/Minify/Source.php
+END
+HTML.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Minify/Minify/HTML.php
+END
+Packer.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Minify/Minify/Packer.php
+END
+ClosureCompiler.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Minify/Minify/ClosureCompiler.php
+END
+IgnoredCommentPreserver.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Minify/Minify/IgnoredCommentPreserver.php
+END
+Lines.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Minify/Minify/Lines.php
+END
+ImportProcessor.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Minify/Minify/ImportProcessor.php
+END
+Inline.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Minify/Minify/Inline.php
+END
+CombineOnly.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Minify/Minify/CombineOnly.php
+END
+Logger.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Minify/Minify/Logger.php
+END
+CSSTidy.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Minify/Minify/CSSTidy.php
+END
+YUICompressor.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Minify/Minify/YUICompressor.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Minify/Minify/index.html
+END
+CSS.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Minify/Minify/CSS.php
+END

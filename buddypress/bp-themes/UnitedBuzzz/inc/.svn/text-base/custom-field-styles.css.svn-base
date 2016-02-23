@@ -1,0 +1,1 @@
+.manu_stats_table tr td, .manu_stats_table tr th {width: 100px; text-align: right;}

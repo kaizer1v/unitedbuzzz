@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Microsoft/Http/Client/Adapter
+END
+Stream.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Microsoft/Http/Client/Adapter/Stream.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Microsoft/Http/Client/Adapter/Exception.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Microsoft/Http/Client/Adapter/Interface.php
+END
+Proxy.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Microsoft/Http/Client/Adapter/Proxy.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Microsoft/Http/Client/Adapter/index.html
+END
+Curl.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Microsoft/Http/Client/Adapter/Curl.php
+END
+Socket.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/!svn/ver/2919/wordpress_themes/ub/plugins/w3-total-cache/lib/Microsoft/Http/Client/Adapter/Socket.php
+END

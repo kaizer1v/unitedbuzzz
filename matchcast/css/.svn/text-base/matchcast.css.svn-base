@@ -1,0 +1,210 @@
+/* custom editor styles */
+ 
+.my_meta_control .customEditor
+{ margin:15px 6px; border:1px solid #ccc; }
+ 
+.my_meta_control .customEditor textarea
+{ border:0; }
+ 
+#post-body .my_meta_control .customEditor .mceStatusbar a.mceResize
+{ top:-2px; }
+ 
+/* extra styles used in other WPAlchemy meta boxes */
+ 
+.my_meta_control .description
+{ display:none; }
+ 
+.my_meta_control label
+{ display:block; font-weight:bold; margin:6px; margin-bottom:0; margin-top:12px; }
+ 
+.my_meta_control label span
+{ display:inline; font-weight:normal; }
+ 
+.my_meta_control span
+{ color:#999; }
+ 
+.my_meta_control textarea, .my_meta_control input[type='text']
+{ margin-bottom:3px; width:99%; }
+ 
+.my_meta_control h4
+{ color:#999; font-size:1em; margin:15px 6px; text-transform:uppercase; }
+.quotes body{background-color:#ffffff !important;}
+
+#tab_container ul li{
+font-size:15px;	
+cursor: pointer;
+}
+#tab_container ul li a {
+	box-shadow:inset 0px 0px 0px rgba(0,0,0,0.7);
+	-webkit-box-shadow: inset 0px 0px 0px rgba(0,0,0,0.7);
+    -moz-box-shadow: inset 0px 0px 0px rgba(0,0,0,0.7);
+}
+
+.tab_container_selected{
+	box-shadow:inset 0px 0px 2px rgba(0,0,0,0.7) !important;
+	-webkit-box-shadow: inset 0px 0px 2px rgba(0,0,0,0.7) !important;
+    -moz-box-shadow: inset 0px 0px 2px rgba(0,0,0,0.7) !important;
+}
+
+.innerdiv {
+border:2px solid #CFD2D4;
+font-size:12px;	
+padding:10px;
+-webkit-border-radius: 5px; 
+-moz-border-radius: 5px; 
+border-radius:5px; 
+-moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box; 
+}
+
+.matchcast_left{
+float:left;
+}
+.clear{
+clear:both;
+}
+
+.matchcast_right{
+height: 400px;
+width: 300px;
+overflow: auto;
+border-left:1px solid;
+float:right;
+}
+
+
+.comm_min{
+	width:15px;	
+	font-weight:bold;
+	display:block;
+	height:20px;
+	float:left;
+	padding-left:2px;
+}
+.commentry_wrapper{
+	padding:0px;
+	border-bottom:1px solid #cccccc;
+	margin-top:10px;
+}
+.comm_min_big{
+	width:15px;	
+	font-weight:bold;
+	display:block;
+	height:20px;
+	padding-left:2px;
+	float:left;
+}
+.comm_text_big{		
+	display:block;
+	padding-left:20px;
+	width:730px;	
+}
+.comm_text{	
+	width:260px;	
+	display:block;
+	padding-left:20px;
+	
+}
+.commentry_comment_div_wrapper{
+	display:none;
+	margin-top:3px;
+}
+.show_comment_div_wrapper{
+	display:none;
+}
+
+
+.like-and-comment-wrapper{
+	margin-left:20px;
+	margin-bottom:5px;
+}
+.like-and-comment-wrapper a{
+	cursor:pointer;
+	text-decoration:none;
+	background-color: #ccc;
+	border-radius:6px;
+	padding: 2px 5px 2px 5px;
+}
+.like-and-comment-wrapper a + a{
+	margin-left:10px;
+}
+
+
+/*Player Stats*/
+.number_input_text{
+	width:30px;
+}
+.PSHome{
+	background-color:white;
+	border-collapse:collapse;
+}
+.PSHome th{
+	
+}
+.PSHome td{
+	border:1px solid #333;
+	text-align:center;
+	width:25px;
+}	
+.player_stats_tabs{
+	list-style:none;
+	background-color:#333;
+	padding:5px;
+	-webkit-border-radius: 5px 5px 0px 0px; 
+    -moz-border-radius: 5px 5px 0px 0px; 
+    border-radius: 5px 5px 0px 0px; 
+	-moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box; 
+}
+.player_stats_tabs li{
+	display:inline;
+}
+.player_stats_tabs li a{
+	color:#fff;
+	font-weight:bold;
+	cursor:pointer;
+}
+.team_player_stats{
+	display:none;
+}
+.player_stats_player_name{
+	width:200px;
+}	
+.player_stats_table_heading{
+	text-align:left;
+	font-size:14px;
+}
+.commentary_comment:first-child{
+	margin-top:5px;
+	margin-bottom:2px;
+}
+.commentary_comment{
+	margin-top:2px;
+	margin-bottom:2px;
+}
+.commentary_comment > a{
+	display: block;
+	float: left;
+	height: 30px;
+	padding: 4px;
+	width: 30px;
+}
+.comment_text{
+	float: left;
+	margin-left: 5px;
+	margin-top: 10px;
+	width: 680px;
+}
+.comment_text span{
+	float:left;
+}
+.delete_commentary_comment{
+	height:13px;
+	width:15px;
+	margin-left:10px;
+	float:left;
+	cursor:pointer;
+}
+/*Match Stat*/
+.match_stat_data_width{
+	width:70px !important;
+}
+
